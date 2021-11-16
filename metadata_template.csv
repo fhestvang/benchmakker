@@ -1,0 +1,39 @@
+Date,2021-04-20
+Time,10:00:02
+Total runtime,02:30:16
+,
+LOG,STATUS
+"Reading from ""3dk""",ok
+"Range ""3dk""",ok
+"Writing to ""2021-03-08""",ok
+"Writing to sheet ""3dk""",ok
+"Reading from ""yousee""",ok
+"Range ""yousee""",ok
+"Writing to ""2021-03-08""",ok
+"Writing to sheet ""youSee""",ok
+"Reading from ""telenor""",ok
+"Range ""telenor""",ok
+"Writing to ""2021-03-08""",ok
+"Writing to sheet ""Telenor""",ok
+"Reading from ""telia""",ok
+"Range ""telia""",ok
+"Writing to ""2021-03-08""",ok
+"Writing to sheet ""Telia""",ok
+"Reading from ""telmore""",ok
+"Range ""telmore""",ok
+"Writing to ""2021-03-08""",ok
+"Writing to sheet ""Telmore""",ok
+"Reading from ""callme""",ok
+"Range ""callme""",ok
+"Reading from ""callme""",ok
+"Range ""callme""",ok
+"Writing to ""2021-03-08""",ok
+"Writing to sheet ""CallMe""",ok
+"Reading from ""cbbmobil""",ok
+"Range ""cbbmobil""",ok
+"Writing to ""2021-03-08""",ok
+"Writing to sheet ""CBBMobil""",ok
+"Reading from ""greentel""",ok
+"Range ""greentel""",ok
+"Writing to ""2021-03-08""",ok
+"Writing to sheet ""GreenTel""",ok
